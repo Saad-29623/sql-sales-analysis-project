@@ -1,2 +1,25 @@
-# sql-sales-analysis-project
-This project is a SQL-based Retail Sales Analysis System designed to demonstrate data management, querying, and analytical skills using structured datasets. It simulates a real-world retail environment where sales, products, and customer behavior are analyzed using SQL queries.
+Sales Data Analysis Using SQL
+
+📌 Project Overview
+
+Using SQL, Excel, and Tableau, this project analyzes sales data to uncover trends, top products, revenue growth, and customer behavior.
+
+The dataset contains 50,000+ sales records including:
+
+* Orders
+* Customers
+* Products
+* Regions
+* Revenue
+
+⸻
+
+🛠️ Tools Used
+
+* MySQL / SQL Server
+* Excel
+* Tableau / Power BI
+
+⸻
+
+📂 Dataset Tables
